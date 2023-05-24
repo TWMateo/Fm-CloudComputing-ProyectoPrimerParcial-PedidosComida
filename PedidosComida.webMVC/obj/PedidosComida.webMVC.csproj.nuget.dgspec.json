@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.webMVC\\PedidosComida.webMVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.Modelos\\PedidosComida.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.Modelos\\PedidosComida.Modelos.csproj",
+        "projectName": "PedidosComida.Modelos",
+        "projectPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.Modelos\\PedidosComida.Modelos.csproj",
+        "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.UAPI\\PedidosComida.UAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.UAPI\\PedidosComida.UAPI.csproj",
+        "projectName": "PedidosComida.UAPI",
+        "projectPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.UAPI\\PedidosComida.UAPI.csproj",
+        "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.UAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.Modelos\\PedidosComida.Modelos.csproj": {
+                "projectPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.Modelos\\PedidosComida.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NewtonSoft.json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.webMVC\\PedidosComida.webMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.webMVC\\PedidosComida.webMVC.csproj",
+        "projectName": "PedidosComida.webMVC",
+        "projectPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.webMVC\\PedidosComida.webMVC.csproj",
+        "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.webMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.Modelos\\PedidosComida.Modelos.csproj": {
+                "projectPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.Modelos\\PedidosComida.Modelos.csproj"
+              },
+              "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.UAPI\\PedidosComida.UAPI.csproj": {
+                "projectPath": "C:\\Users\\Mateo\\1.Mateo-UTN\\16.Sexto Semestre\\2.Cloud Computing\\2.Proyectos\\Pedidos-Comida\\PedidosComida.UAPI\\PedidosComida.UAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

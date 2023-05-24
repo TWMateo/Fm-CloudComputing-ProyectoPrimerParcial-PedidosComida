@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ynMjnBCwWsPzBITQIsoO7t8YLDdk2ookhzGaojpFYWs=",
+  "Source": "PedidosComida.API",
+  "BasePath": "_content/PedidosComida.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
